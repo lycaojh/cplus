@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(CPLUS)
+
+set(CMAKE_CXX_STANDARD 11)
+ADD_SUBDIRECTORY(src bin)
+MESSAGE(STATUS "This is BINARY dir " ${CPLUS_BINARY_DIR})
+MESSAGE(STATUS "This is SOURCE dir "${CPLUS_SOURCE_DIR})
+ADD_SUBDIRECTORY(lib)
+#add_executable(cplus main.cpp)
+#add_executable(const const.cpp)
+#add_executable(pointer.cpp pointer.cpp)
+#add_executable(strcpy strcpy.cpp)

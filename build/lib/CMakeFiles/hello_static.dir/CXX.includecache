@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/caojh/CLionProjects/cplus/lib/hello.cpp
+hello.h
+/mnt/c/Users/caojh/CLionProjects/cplus/lib/hello.h
+
+/mnt/c/Users/caojh/CLionProjects/cplus/lib/hello.h
+stdio.h
+-
+

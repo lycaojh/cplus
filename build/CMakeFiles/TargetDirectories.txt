@@ -1,0 +1,9 @@
+/mnt/c/Users/caojh/CLionProjects/cplus/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/bin/CMakeFiles/edit_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/bin/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/bin/CMakeFiles/cplus.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/lib/CMakeFiles/hello_static.dir
+/mnt/c/Users/caojh/CLionProjects/cplus/build/lib/CMakeFiles/hello.dir
